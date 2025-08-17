@@ -1,4 +1,4 @@
-range function in Python:
+range function in Python::
 
 range(10)
 Start from 0 (default start value) and end with 9 (one before 10)
