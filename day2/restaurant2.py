@@ -1,5 +1,4 @@
 print('Welcome to our restaurant THE TASTE')
-
 food_type = int(input('1:North 2:South. Your choice Please: '))
 match food_type:
     case 1 :
