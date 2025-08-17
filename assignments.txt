@@ -150,3 +150,21 @@ Doubts: dev.morzilla.org--html,javascript, docs.oracle.com-java, pythonic.docs.c
 -----> why in python there is no implict type casting , as in java we can add a string with int which excplictly converts int into string 
 --->applications vs software
 -----> 
+
+
+Divya: 
+floating point numbers are stored using IEEE standards.
+in relational operator using two operator we can construct others.so we need to find out 2 required operator//< and ==
+ordering mutiple items at a time:restaurant.py
+
+class A is fully developed package and that is inherited for class B-Inheritance
+Polymorphism:one problem multiple solutions
+when we inherit the existing solution with even more new features:inheritance
+bad inheritance:adding more features than required
+why inheritance:
+you can sell diff product to diff customer
+Association:
+the  whole object and part object cannot exist independent of each other 
+eg:pen and cap,mobile and battery
+Aggregation:the  whole object and part object can exist independent of each other 
+ex:music system and car

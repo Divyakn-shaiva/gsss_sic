@@ -1,0 +1,30 @@
+Remote repo--i have created a text file 
+i need to update it in local Repo
+this process is called pull.
+$git add .
+$git add ./notes1(folder_name)
+$ git commit -m "I added a new file"
+$git pull
+
+now delete file in remopte repo but still it is present in local repo
+again if u give git pull in cmd the deleted file in remote repo is removed in local repo  
+
+PUSH
+make changes in local REPO
+$ git commit -m "I updated a file"  // gives you the modified red message
+$git add .
+$git add ./notes1(folder_name)
+$ git commit -m "I updated a new file"
+$git push
+
+day 2
+interpreter converts data into integer to float but not float to integer
+day3
+in python for loop i+=2 is waste it doesn't increment ,,,,if we need to increment then use step size in range like for i in range(1,10,2)
+*var_args- takes any number of arguments like my_range(1,100,2,3....)
+yield:it gives values to some function
+map:access all the elements one by one 
+application :we use application and application use softwareto give output
+pymysql:it is a bridge
+
+   
