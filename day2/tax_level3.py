@@ -1,7 +1,6 @@
 import tax_level2 as t2
 
 section_87A_rebate = True
-
 tax_amount = 0
 tax_percentage = 0
 if t2.taxable_income >= 0 and t2.taxable_income <= 3_00_000:
