@@ -152,12 +152,12 @@ Doubts: dev.morzilla.org--html,javascript, docs.oracle.com-java, pythonic.docs.c
 -----> 
 
 
-Divya: 
+Divya: research 
 floating point numbers are stored using IEEE standards.
 in relational operator using two operator we can construct others.so we need to find out 2 required operator//< and ==
 ordering mutiple items at a time:restaurant.py
 
-class A is fully developed package and that is inherited for class B-Inheritance
+Inheritance:class A is fully developed package and that is inherited for class B
 Polymorphism:one problem multiple solutions
 when we inherit the existing solution with even more new features:inheritance
 bad inheritance:adding more features than required
@@ -168,3 +168,16 @@ the  whole object and part object cannot exist independent of each other
 eg:pen and cap,mobile and battery
 Aggregation:the  whole object and part object can exist independent of each other 
 ex:music system and car
+input() = is a function from core python library and it reads and returns it as a string alternatively we can pass srting to it and print it in the console.
+Dr Subramaniam Swamy
+diff between scanf and gets ,printf and puts
+until i give some specified symbol it should take input from me : do this in python sir is already done in c
+address of first element ,addresss of first byte of first element both are same==>1201
+address of last element==>1237,address of last byte of last element==>1240
+address:size of the data type property
+address-address:numbers===>number is number of bytes between the elements
+address-numbers:address
+address+numbers:address
+(linked list : we never see wastage )===>learn about this,,time effeciancy : O(n)
+list methods:definition(learn) (append,extends see list3.py)
+__repr__ important... just type list1.         you will get all the methods.
