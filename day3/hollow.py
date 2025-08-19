@@ -6,5 +6,5 @@ def hollow_square(number_of_lines):
             else:
                 print(" ", end = " ")
         print() 
-number_of_lines=int(input("enter the number of lines:  "))
+number_of_lines = int(input("enter the number of lines:  "))
 hollow_square(number_of_lines)

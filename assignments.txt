@@ -181,3 +181,7 @@ address+numbers:address
 (linked list : we never see wastage )===>learn about this,,time effeciancy : O(n)
 list methods:definition(learn) (append,extends see list3.py)
 __repr__ important... just type list1.         you will get all the methods.
+why there is no IndexError in the case of Slicing
+implement a function find which mimics the find method of string class
+why *args?
+my_find_str.py: other 2 condition start index and end index
