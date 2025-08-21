@@ -1,4 +1,4 @@
-def pascal_triangle(number):
+'''def pascal_triangle(number):
     for i in range(number):
         print(" " * (number - i - 1) ,end = "  ")
         current_row = 1
@@ -7,4 +7,24 @@ def pascal_triangle(number):
             current_row = current_row * (i - j) // ( j + 1)
         print()
 number = int (input("Enter the number :  "))
-pascal_triangle(number)
+pascal_triangle(number)'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

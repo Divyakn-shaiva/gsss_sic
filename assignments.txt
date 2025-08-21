@@ -185,3 +185,7 @@ why there is no IndexError in the case of Slicing
 implement a function find which mimics the find method of string class
 why *args?
 my_find_str.py: other 2 condition start index and end index
+4 digit no  where any digit repeat twice and put nos in decreasing order 
+1100
+0011
+-1089          Assume this has original number recursively 

@@ -14,4 +14,3 @@ def rhombus(number_of_lines):
         print()
 number_of_lines = int(input("Enter number of lines: "))
 rhombus(number_of_lines)
-

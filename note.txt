@@ -51,3 +51,25 @@ enumerate: it will give index with element
 in odd placed even digits and in even place odd digits and sum :789648756
 30 square= 900: 31 square add 30+31 to 900
 29 square subtract 30+29  to 900
+
+enumerate() is a built-in Python function that lets you loop with an index (position number).
+ex:0 6
+1 5
+2 4
+3 3
+4 2
+5 1
+ip address: to connect to particular computer uniquely
+port number : to connect to particular application
+mysql connection: 
+mysql -u root -p
+enter password: your password
+show databases; 6 rows in set : why set in mysql  ==>bcoz set doesnt store duplicate values over list but list stores dupplicate values
+create database divya_db;
+use divya_db;
+create table
+meta data==>data about the data
+delete * from employees; # delete rows in table and when we insert any data it starts from 11 as it is auto inc 
+truncate table employees; # delete  rows in table and when we insert any data it starts from again 1 as it is auto
+drop table employees; # delete entire table  
+
