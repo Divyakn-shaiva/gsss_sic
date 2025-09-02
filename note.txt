@@ -72,4 +72,27 @@ meta data==>data about the data
 delete * from employees; # delete rows in table and when we insert any data it starts from 11 as it is auto inc 
 truncate table employees; # delete  rows in table and when we insert any data it starts from again 1 as it is auto
 drop table employees; # delete entire table  
+dao:data access object==> A DAO class is used to separate the persistence logic (database operations) from the business logic.
+It usually contains methods like save(), update(), delete(), getById(), etc., to interact with the database.
+pojo:plain old java object
+popo:in python we use popo class
+POST: it is  for inserting to server (here inserting a row)
+in backend (flask) : request and response is automatically created 
+function: jsonify(employee_dict)
+method: object.search_row(id)
 
+Bubble Sort:how it works ,in which group it comes under(decrease and conquor,divide and conquor ),efficiency,optimization and application
+we should not use bubble sort when it increasing order and we need to sort the array in decreasing order
+bubble sort helps to sort the elments of linked lists
+if there is 0 swaps then we can say that array is already sorted
+list1.sort()=== > shallow copy  ,,,, sort the list1 itself.
+sorted(list1)===>deep copy,,,, list1 remains same but it creates another sorted list.
+
+Insertion Sort===>Optimistic sorting technic, if the given  array is already sorted then we use.. Insertion Sort Insertion sort is used when number of elements is small. 
+It can also be useful when the input array is almost sorted, and only a few elements are misplaced in a complete big array.
+if the array is bigger(when we should not use insertion sort)....You should avoid using Insertion Sort for large, unsorted datasets
+minimum shift =0
+maximum shift = i number of times
+for shifting we use while loop
+for accessing the elements we use for loop
+bucket,quick,selection,merge,radix,heap,BST,AVL.====>should learn compulsory  problems on dynamic ,greedy, backtracking
